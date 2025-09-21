@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lorenz Ritsch</h1>
 <h3 align="center">IT and cybersecurity enthusiast from Italy</h3>
 
-- 🔭 I’m currently working on **password manager**
+- 🔭 I’m currently working on my own **password manager**
 
-- 🌱 I’m currently learning **C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
