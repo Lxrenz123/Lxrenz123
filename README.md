@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenz Ritsch</h1>
-<h3 align="center">IT and cybersecurity enthusiast from Italy</h3>
+<h3 align="center">Cyber Security student from Italy</h3>
 
 - 🔭 I’m currently working on my own **password manager**
 
