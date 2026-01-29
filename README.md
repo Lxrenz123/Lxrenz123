@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lorenz Ritsch</h1>
-<h3 align="center">Cyber Security student from Italy</h3>
 
 
 
